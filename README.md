@@ -58,6 +58,10 @@ The dashboard focuses on the following business metrics:
 - Monitor profit margins regularly to balance sales growth with business profitability.
 - Use dashboard insights to support inventory planning and business decision-making.
 
+- ## 📷 Dashboard Preview
+
+Dashboard screenshots are provided below to showcase the overall layout and key visualizations.
+
 - ## 🚀 Future Improvements
 
 - Integrate real-time business data.
