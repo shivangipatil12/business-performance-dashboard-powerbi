@@ -38,6 +38,18 @@ The dashboard focuses on the following business metrics:
 - Sales by Customer Segment
 - Shipping Mode Analysis
 
+- ## 🗄️ SQL Analysis
+
+Before building the Power BI dashboard, SQL was used to explore and analyze the dataset.
+
+Key SQL tasks performed:
+- Imported the Superstore dataset into MySQL.
+- Cleaned and validated the dataset.
+- Calculated total sales and total profit.
+- Analyzed profit by category and region.
+- Identified loss-making states and sub-categories.
+- Explored the relationship between discounts and profitability.
+
 
 ## 📷 Dashboard Preview
 
@@ -81,3 +93,12 @@ The following screenshots showcase the interactive Power BI dashboard and the ke
 - Add customer retention and sales forecasting analysis.
 - Build predictive dashboards using machine learning techniques.
 - Connect the dashboard directly to SQL databases for automated reporting.
+
+
+- ## 📁 Project Files
+
+- [Business-Performance-Dashboard.pbix](Business-Performance-Dashboard.pbix) – Power BI project file for editing and customization.
+
+- [Business-Performance-Dashboard.pdf](Business-Performance-Dashboard.pdf) – PDF version of the dashboard for quick viewing and sharing.
+
+
