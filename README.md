@@ -38,9 +38,25 @@ The dashboard focuses on the following business metrics:
 - Sales by Customer Segment
 - Shipping Mode Analysis
 
-- ## 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-*(Dashboard screenshots will be added here.)*
+The following screenshots showcase the interactive Power BI dashboard and the key business analyses performed.
+
+### Business Performance Dashboard
+
+![Business Performance Dashboard](images/dashboard-overview.png.PNG)
+
+---
+
+### Profitability Analysis
+
+![Profitability Analysis](images/profitability-analysis.png.PNG)
+
+---
+
+### Business Performance Analysis
+
+![Business Performance Analysis](images/business-performance-analysis.png.PNG)
 
 ## 💡 Business Insights
 
@@ -57,26 +73,6 @@ The dashboard focuses on the following business metrics:
 - Expand successful sales strategies from high-performing regions to lower-performing regions.
 - Monitor profit margins regularly to balance sales growth with business profitability.
 - Use dashboard insights to support inventory planning and business decision-making.
-
-- ## 📷 Dashboard Preview
-
-## 📷 Dashboard Preview
-
-### Dashboard Overview
-
-![Dashboard Overview](images/dashboard-overview.png)
-
----
-
-### Profitability Analysis
-
-![Profitability Analysis](images/profitability-analysis.png)
-
----
-
-### Business Performance Analysis
-
-![Business Performance Analysis](images/business-performance-analysis.png)
 
 - ## 🚀 Future Improvements
 
