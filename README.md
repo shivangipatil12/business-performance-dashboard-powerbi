@@ -60,7 +60,23 @@ The dashboard focuses on the following business metrics:
 
 - ## 📷 Dashboard Preview
 
-Dashboard screenshots are provided below to showcase the overall layout and key visualizations.
+## 📷 Dashboard Preview
+
+### Dashboard Overview
+
+![Dashboard Overview](images/dashboard-overview.png)
+
+---
+
+### Profitability Analysis
+
+![Profitability Analysis](images/profitability-analysis.png)
+
+---
+
+### Business Performance Analysis
+
+![Business Performance Analysis](images/business-performance-analysis.png)
 
 - ## 🚀 Future Improvements
 
